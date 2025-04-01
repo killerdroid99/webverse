@@ -17,8 +17,8 @@ const serviceCards = [
   },
   {
     id: 3,
-    CardTitle: 'Web Applications',
-    CardDescription: 'Custom web applications that automate processes, improve efficiency, and help grow your business.',
+    CardTitle: 'App Development',
+    CardDescription: 'Cross-platform mobile applications that provide a native experience on both iOS and Android devices.',
     CardLink: '#',
     CardIcon: 'fas fa-mobile-alt',
   },
